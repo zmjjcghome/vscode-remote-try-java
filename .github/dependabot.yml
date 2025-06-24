@@ -1,7 +1,7 @@
 # For more details, see https://containers.dev/guide/dependabot
 version: 2
 updates:
-  - package-ecosystem: "devcontainers"
+  - package-ecosystem: "maven"
     directory: "/"
     schedule:
-      interval: weekly
+      interval: daily
